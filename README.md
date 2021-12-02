@@ -1,2 +1,2 @@
 # bmapiuarttransceiver
-UART Transceiver-like module for BMAPI
+UART transceiver for BMAPI
