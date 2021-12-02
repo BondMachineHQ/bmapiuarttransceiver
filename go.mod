@@ -1,4 +1,4 @@
-module github.com/BondMachineHQ/bmapiuarttransceiver.git
+module github.com/BondMachineHQ/bmapiuarttransceiver
 
 go 1.17
 
